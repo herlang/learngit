@@ -13,3 +13,5 @@ creatting a new branch is quick and simple.
 branch manager study.
 
 bug branch study.
+
+when create new feature, what can we do next steps?
