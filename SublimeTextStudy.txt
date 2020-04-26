@@ -11,3 +11,5 @@ creatting a new branch is quick and simple.
 >>>>>>> featurel
 
 branch manager study.
+
+bug branch study.
